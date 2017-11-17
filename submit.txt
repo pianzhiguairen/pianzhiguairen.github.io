@@ -1,0 +1,7 @@
+git status     查看有没有未提交的文件
+
+git add -A     添加所有文件到版本控制
+
+git commit -m "update"    提交所有文件到本地的仓库
+
+git push    推送本地的提交到远程仓库   
