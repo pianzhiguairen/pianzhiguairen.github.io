@@ -8,4 +8,4 @@ git push    推送本地的提交到远程仓库
 
 https://pianzhiguairen.github.io/swzc/index.html 
 
-https://pianzhiguairen.github.io/dapingpeizhiguanli/index.html 
+https://pianzhiguairen.github.io/dapingpeizhiguanli/index.html
